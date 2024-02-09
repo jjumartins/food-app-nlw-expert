@@ -15,7 +15,7 @@ import { LinkButton } from "@/components/link-button";
 import { useState } from "react";
 import { useNavigation } from "expo-router";
 
-const PHONE_NUMBER = "5511993965256"
+const PHONE_NUMBER = ""
 
 export default function Cart() {
 
